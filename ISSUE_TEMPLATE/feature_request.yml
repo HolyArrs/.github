@@ -1,0 +1,25 @@
+name: Feature request
+description: An idea that would make HolyArrs better.
+labels: [idea]
+body:
+  - type: markdown
+    attributes:
+      value: "Check the roadmap first at holyarrs.com/roadmap. If your idea is already there, vote for it instead."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The problem or the moment where HolyArrs gets in your way.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else?
+      description: How another app handles it, mockups, links.

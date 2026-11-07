@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/HolyArrs/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, not as an issue.
+  - name: Ask a question or chat
+    url: https://reddit.com/r/HolyArrs
+    about: Questions, setups and show-and-tell live on r/HolyArrs.
+  - name: Vote on the roadmap
+    url: https://holyarrs.com/roadmap/
+    about: See what's planned and vote for what you want next.
