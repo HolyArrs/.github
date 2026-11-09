@@ -32,7 +32,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/h-what-dark.png"><img src="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/h-what-light.png" width="100%" alt="Everything, handled." /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/tiles-dark.png"><img src="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/tiles-light.png" width="100%" alt="Browse like a streaming app. Ask for anything. It finds it. Straight to your downloader. Subtitles, sorted. Into your library." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/tiles-dark.png"><img src="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/tiles-light.png" width="100%" alt="Browse like a streaming app. Ask for anything. It finds it. Straight to your downloader. Subtitles kept. Into your library." /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/h-works-dark.png"><img src="https://raw.githubusercontent.com/HolyArrs/.github/main/profile/h-works-light.png" width="100%" alt="Plays well with others." /></picture>
 
